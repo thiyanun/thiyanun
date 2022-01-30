@@ -1,5 +1,5 @@
  ✨ สวัสดีค่ะชื่อศุภลักษณ์ เกรัมย์ หรือเวิร์น  ✨ 
- ปัจจุบันทำงานตำแหน่ง webdeverloper - front end ที่บริษัทเอกชน เป็นคนที่ชอบและหลงไหลสนใจการทำเว็บไซต์ และกำลังให้ความสนใจเป็นพิเศษเกี่ยวกับเทคโนโลยี Blockchain Nft cyptocerency 👀  👋 
+ ปัจจุบันทำงานตำแหน่ง webdeveloper - front end ที่บริษัทเอกชน เป็นคนที่ชอบและหลงไหลสนใจการทำเว็บไซต์ และกำลังให้ความสนใจเป็นพิเศษเกี่ยวกับเทคโนโลยี Blockchain Nft cyptocerency 👀  👋 
 
 - 🌱 I’m currently learning Front-End, Blockchain technology and more.
 - 📫 How to reach me wsupalakke@gmail.com
