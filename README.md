@@ -7,9 +7,8 @@
 
 - 📫 How to reach me **thiyanunwa@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<b><a href="https://medium.com/@thiyanunwarichpiyaroj">BLOG Thiya</a></b>
+<b><a href="https://medium.com/@thiyanunwarichpiyaroj">Medium :Thiya</a></b>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
