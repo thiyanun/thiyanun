@@ -6,9 +6,6 @@
 
 - 📫 How to reach me **thiyanunwa@gmail.com**
 
-<p align="left">
-<b><a href="https://medium.com/@thiyanunwarichpiyaroj">Medium :Thiya</a></b>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
